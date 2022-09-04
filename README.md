@@ -1,4 +1,4 @@
-# 2022년 2월 어쩔넘파이
+# 어쩔넘파이의 시작
 
 Github Organization 주소: https://github.com/uzzulnumpy
 
